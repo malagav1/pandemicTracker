@@ -1,0 +1,11 @@
+${AnsiColor.BRIGHT_BLUE}
+${AnsiColor.BRIGHT_BLUE},------.                       ,--.                    ,--.        ,--------.                         ,--.
+${AnsiColor.BRIGHT_BLUE}|  .--. '  ,--,--. ,--,--,   ,-|  |  ,---.  ,--,--,--. `--'  ,---. '--.  .--' ,--.--.  ,--,--.  ,---. |  |,-.   ,---.  ,--.--.
+${AnsiColor.BRIGHT_BLUE}|  '--' | ' ,-.  | |      \ ' .-. | | .-. : |        | ,--. | .--'    |  |    |  .--' ' ,-.  | | .--' |     /  | .-. : |  .--'
+${AnsiColor.BRIGHT_BLUE}|  | --'  \ '-'  | |  ||  | \ `-' | \   --. |  |  |  | |  | \ `--.    |  |    |  |    \ '-'  | \ `--. |  \  \  \   --. |  |
+${AnsiColor.BRIGHT_BLUE}`--'       `--`--' `--''--'  `---'   `----' `--`--`--' `--'  `---'    `--'    `--'     `--`--'  `---' `--'`--'  `----' `--'
+${AnsiColor.BRIGHT_BLUE}
+${AnsiColor.BRIGHT_BLUE}
+${AnsiColor.BRIGHT_BLUE}
+${AnsiColor.BRIGHT_BLUE}
+${AnsiColor.BRIGHT_BLUE} :: ${spring.application.name} :: ${application.formatted-version} :: active profiles: ${spring.profiles.active}
